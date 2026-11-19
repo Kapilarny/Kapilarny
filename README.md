@@ -20,7 +20,7 @@
 
 #### Some frameworks/runtimes/libraries i use
 
-[![Some frameworks/runtimes/libraries i use](https://skillicons.dev/icons?i=bun,godot,jest,mongodb,nodejs,react,tailwind,tauri,threejs)](https://skillicons.dev)
+[![Some frameworks/runtimes/libraries i use](https://skillicons.dev/icons?i=bun,jest,mongodb,nodejs,react,tailwind,tauri,threejs)](https://skillicons.dev)
 
 #### OS'es that i use/target
 
